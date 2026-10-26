@@ -1,0 +1,6 @@
+{
+  "name": "Subway Surfers 3D - Endless Runner",
+  "description": "Fast-paced 3D endless subway runner game with responsive lane switching, trains, jumps, rolls, hoverboard, magnet, and jetpack.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
